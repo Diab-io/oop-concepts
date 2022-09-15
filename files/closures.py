@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #closures
 
 # Wikipedia says, "A closure is a record storing a function together with

@@ -7,7 +7,7 @@
 # These operations typically include being passed as an argument, returned from a function
 # assigned to a variable
 
-
+#!/usr/bin/python3
 def square(x):
     return x * x
 

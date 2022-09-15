@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #using classes as decorators
 
 class decorator_class(object):

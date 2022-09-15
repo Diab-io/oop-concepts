@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def decorator_function(original_function):
     def wrapper_function(*args, **kwargs):
         print(f"wrapper executed before {original_function.__name__}")
